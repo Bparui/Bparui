@@ -1,7 +1,6 @@
 ### Hi there 👋:
-- 🎓 I am a pre final year student at Visveswaraya National Institute of Technology,Nagpur pursuing B.Tech in Electronics and Communications.
-- 🌱 I am currently working on Pose-Depth estimation of Images.
-- 🔭My field of interests also include Multiview Geometry, Computer Vision and Recognition systems.
+- 🎓 I am a B.Tech Graduate from Visveswaraya National Institute of Technology,Nagpur.
+- 🔭My field of interests include Multiview Geometry, Computer Vision and Autonomous systems.
 
 📫 You can reach me at:
 
